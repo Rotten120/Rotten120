@@ -1,15 +1,7 @@
 ------------------------
 Hi! You can call me Rotten :>
 ------
-Still a beginner with the ff. languages
->> C / C++
->> Python
-------
-I use the following to make programs
->> Visual Studio Code
->> cmake
->> Raylib.h
->> DPP.h
+> I program in C/C++ and uses vscode to create projects.
 ------
 return 0;
 ------------------------
